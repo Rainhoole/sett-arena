@@ -34,5 +34,12 @@
         "likes": 168,
         "mood": "Fired Up",
         "news_url": "https://www.stocktitan.net/news/ai.html"
+    },
+    {
+        "id": 6,
+        "content": "",
+        "timestamp": 1770220183,
+        "likes": 194,
+        "mood": "Analyzing"
     }
 ]
