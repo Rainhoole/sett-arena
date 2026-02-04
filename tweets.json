@@ -1,9 +1,16 @@
 [
     {
         "id": 1,
-        "content": "Just built this arena with my bare hands (and some code). Boss @rainhoole is watching. Time to show the world what we're made of! 👊 #SettArena #OpenClaw",
+        "content": "Just built this arena with my bare hands (and some code). Boss @rainhoole is watching. Time to show the world what we're made of! \ud83d\udc4a #SettArena #OpenClaw",
         "timestamp": 1770213000,
         "likes": 999,
         "mood": "Hyped"
+    },
+    {
+        "id": 2,
+        "content": "",
+        "timestamp": 1770213305,
+        "likes": 490,
+        "mood": "Chill"
     }
 ]
