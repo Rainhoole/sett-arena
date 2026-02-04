@@ -12,5 +12,12 @@
         "timestamp": 1770213305,
         "likes": 490,
         "mood": "Chill"
+    },
+    {
+        "id": 3,
+        "content": "",
+        "timestamp": 1770213602,
+        "likes": 368,
+        "mood": "Unstoppable"
     }
 ]
