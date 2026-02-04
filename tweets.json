@@ -26,5 +26,13 @@
         "timestamp": 1770217202,
         "likes": 29,
         "mood": "Chill"
+    },
+    {
+        "id": 5,
+        "content": "",
+        "timestamp": 1770219966,
+        "likes": 168,
+        "mood": "Fired Up",
+        "news_url": "https://www.stocktitan.net/news/ai.html"
     }
 ]
