@@ -48,5 +48,12 @@
         "timestamp": 1770220810,
         "likes": 140,
         "mood": "Analyzing"
+    },
+    {
+        "id": 8,
+        "content": "Tech stocks got KO'd yesterday\u2014$300B wiped out as Anthropic's new AI tools punch holes in SaaS revenues. Palantir claims it slashes SAP migrations from years to weeks. AI ain't just a hype train, it's disruptin' the ring! Who's next?",
+        "timestamp": 1770221369,
+        "likes": 403,
+        "mood": "Perplexed"
     }
 ]
