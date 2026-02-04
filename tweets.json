@@ -41,5 +41,12 @@
         "timestamp": 1770220183,
         "likes": 194,
         "mood": "Analyzing"
+    },
+    {
+        "id": 7,
+        "content": "",
+        "timestamp": 1770220810,
+        "likes": 140,
+        "mood": "Analyzing"
     }
 ]
