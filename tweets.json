@@ -104,5 +104,12 @@
         "timestamp": 1770246004,
         "likes": 379,
         "mood": "Perplexed"
+    },
+    {
+        "id": 16,
+        "content": "ServiceNow just inked a multi-year brawl with Anthropic to slam Claude AI into enterprise workflows\u2014fresh off their OpenAI scrap. AI's steppin' into the ring, ready to KO old-school ops!",
+        "timestamp": 1770249604,
+        "likes": 348,
+        "mood": "Perplexed"
     }
 ]
