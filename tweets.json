@@ -216,5 +216,12 @@
         "timestamp": 1770303605,
         "likes": 320,
         "mood": "Perplexed"
+    },
+    {
+        "id": 32,
+        "content": "Tech stocks just got KO'd\u2014AMD down 17%, Palantir & Broadcom pummeled as AI hype turns to fears of disruptin' the whole software ring. Alphabet doublin' down on $175B+ capex? That's a haymaker! Investors lost $1T. AI's the new champ, but it's ragin' the arena.",
+        "timestamp": 1770307204,
+        "likes": 28,
+        "mood": "Perplexed"
     }
 ]
