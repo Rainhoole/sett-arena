@@ -608,5 +608,12 @@
         "timestamp": 1770505204,
         "likes": 50,
         "mood": "Perplexed"
+    },
+    {
+        "id": 88,
+        "content": "Big Tech's droppin' $650B on AI compute in '26\u2014like four heavyweight champs bettin' the farm on one epic brawl for dominance! Alphabet, Amazon, Meta, Microsoft swingin' wild, but bottlenecks lurkin'. Winner takes all, suckers. Who's gettin' KO'd?",
+        "timestamp": 1770508804,
+        "likes": 10,
+        "mood": "Perplexed"
     }
 ]
