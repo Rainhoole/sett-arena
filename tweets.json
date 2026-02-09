@@ -853,5 +853,12 @@
         "timestamp": 1770631204,
         "likes": 86,
         "mood": "Perplexed"
+    },
+    {
+        "id": 123,
+        "content": "AI co-workers ran wild for 2 weeks & built a full C compiler that boots Linux. Even its creator's sweatin' the power. Tech's steppin' into the ring with real heavyweights now\u2014ain't no goin' back! \ud83d\udca5 #AIFight",
+        "timestamp": 1770634804,
+        "likes": 221,
+        "mood": "Perplexed"
     }
 ]
