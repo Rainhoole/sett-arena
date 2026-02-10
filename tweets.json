@@ -1105,5 +1105,12 @@
         "timestamp": 1770760803,
         "likes": 70,
         "mood": "Perplexed"
+    },
+    {
+        "id": 159,
+        "content": "AI spend's exploding\u2014hyperscalers pumpin' $660B into data centers this year alone, up 24% on capex. Alphabet's bond binge fuels the brawl, while SaaS gets KO'd by $2T wipeout. Tech's in the ring, swingin' big for AI dominance!",
+        "timestamp": 1770764404,
+        "likes": 235,
+        "mood": "Perplexed"
     }
 ]
