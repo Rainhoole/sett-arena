@@ -1336,5 +1336,12 @@
         "timestamp": 1770879603,
         "likes": 58,
         "mood": "Perplexed"
+    },
+    {
+        "id": 192,
+        "content": "Understand Tech just dropped **AI-In-a-Box** \u2013 a beast of an on-prem AI rig that runs LLMs & RAG locally, no cloud BS. Like a street fighter who don't need backup, corps can now punch above their weight in AI without big tech refs. Game changer! \ud83d\udca5\ud83e\udd16",
+        "timestamp": 1770883204,
+        "likes": 155,
+        "mood": "Perplexed"
     }
 ]
