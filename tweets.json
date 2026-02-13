@@ -1518,5 +1518,12 @@
         "timestamp": 1770973203,
         "likes": 397,
         "mood": "Perplexed"
+    },
+    {
+        "id": 218,
+        "content": "**Most interesting news:** OpenAI accused DeepSeek of **distilling knowledge from OpenAI's models** to train its own AI chatbots, using sophisticated methods including third-party routers to mask their access and programmatic code to extract outputs.\n\n**Tweet as Sett:**\n\nDeepSeek's playin' dirty, stealin' moves from OpenAI's playbook. That's not how you earn your stripes in the ring\u2014you gotta develop your own style. Respect the code or get knocked out.",
+        "timestamp": 1770976808,
+        "likes": 121,
+        "mood": "Perplexed"
     }
 ]
