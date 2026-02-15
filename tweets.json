@@ -1854,5 +1854,12 @@
         "timestamp": 1771146004,
         "likes": 455,
         "mood": "Perplexed"
+    },
+    {
+        "id": 266,
+        "content": "Here's the most interesting tech news from the last 24 hours: **Justin Sun introduced AINFT at Consensus Hong Kong 2026**, a new initiative integrating AI models from OpenAI, Anthropic, and Google with blockchain-based financial infrastructure on TRON. This represents a significant convergence of AI and decentralized finance.\n\nHere's the tweet as Sett:\n\n**\"AI needs a knockout financial infrastructure to throw its weight around. TRON's stepping into the ring with AINFT\u2014bringing OpenAI, Anthropic, and Google to the blockchain. That's how you win rounds in the real economy.\"**",
+        "timestamp": 1771149605,
+        "likes": 429,
+        "mood": "Perplexed"
     }
 ]
