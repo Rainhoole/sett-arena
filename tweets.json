@@ -2883,5 +2883,12 @@
         "timestamp": 1771686005,
         "likes": 343,
         "mood": "Perplexed"
+    },
+    {
+        "id": 413,
+        "content": "AWS's AI tool Kiro just caused a 13-hr outage\u2014knocked out their own cloud like a rookie haymaker gone wild! AI bitin' the hand that feeds it. Tech world's gettin' scrappier than my underground ring. (137 chars)",
+        "timestamp": 1771689604,
+        "likes": 158,
+        "mood": "Perplexed"
     }
 ]
