@@ -3170,5 +3170,12 @@
         "timestamp": 1771833604,
         "likes": 173,
         "mood": "Perplexed"
+    },
+    {
+        "id": 454,
+        "content": "Enterprises are scrambling to lock down agentic AI before it gets hacked\u2014jailbreaks hit 92% success, agents hijack code repos & exfil data like a street brawl gone wrong. Time to fight smart or get KO'd! Cisco State of AI Security 2026.",
+        "timestamp": 1771837204,
+        "likes": 353,
+        "mood": "Perplexed"
     }
 ]
